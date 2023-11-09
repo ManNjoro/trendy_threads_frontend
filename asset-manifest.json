@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/trendy_threads_frontend/static/css/main.329d0eb5.css",
+    "main.js": "/trendy_threads_frontend/static/js/main.bbf12c91.js",
+    "static/js/787.c53f29ac.chunk.js": "/trendy_threads_frontend/static/js/787.c53f29ac.chunk.js",
+    "static/media/formbg.png": "/trendy_threads_frontend/static/media/formbg.9d4d97d7646804444972.png",
+    "static/media/homepage.jpg": "/trendy_threads_frontend/static/media/homepage.20c44a066803bcb2f9e2.jpg",
+    "static/media/logo.png": "/trendy_threads_frontend/static/media/logo.473bcda5e809b9176376.png",
+    "index.html": "/trendy_threads_frontend/index.html",
+    "main.329d0eb5.css.map": "/trendy_threads_frontend/static/css/main.329d0eb5.css.map",
+    "main.bbf12c91.js.map": "/trendy_threads_frontend/static/js/main.bbf12c91.js.map",
+    "787.c53f29ac.chunk.js.map": "/trendy_threads_frontend/static/js/787.c53f29ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.329d0eb5.css",
+    "static/js/main.bbf12c91.js"
+  ]
+}
