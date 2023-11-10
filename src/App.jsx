@@ -1,7 +1,7 @@
 import {
   Route,
   RouterProvider,
-  createBrowserRouter,
+  createHashRouter,
   createRoutesFromElements,
 } from "react-router-dom";
 import Layout from "./components/Layout";
@@ -17,7 +17,7 @@ import { ShopContextProvider } from "./context/Context";
 import NotFound from "./pages/NotFound";
 import PayPal from "./pages/PayPal";
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <Route path="/" element={<Layout />}>
       <Route index element={<Home />}/>
